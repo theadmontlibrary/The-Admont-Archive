@@ -1,0 +1,390 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "The Secret Garden",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "The Secret Garden by Frances Hodgson Burnett",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "The Admont Library & Co.",
+  "sequences" : [ {
+    "@id" : "http://ef5ec70a-a3fe-45d9-8269-5fd1d2634d4c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://7412606d-e495-4f38-9dad-8d2db4c4cb4b",
+      "@type" : "sc:Canvas",
+      "label" : "Page 1",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e307cef9-a8ac-46bc-8c74-1cbdf75adda3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://7412606d-e495-4f38-9dad-8d2db4c4cb4b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://cf378fa4-5086-4f77-b872-9ecf080a5d47",
+      "@type" : "sc:Canvas",
+      "label" : "Page 2",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3f2c555c-1da1-4456-9689-7a7c85a70ba0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://cf378fa4-5086-4f77-b872-9ecf080a5d47"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9b18e38e-2d17-4a86-9462-0238f36d033e",
+      "@type" : "sc:Canvas",
+      "label" : "Page 3",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4f94d8ea-6b0c-48a0-b8c1-f3f7e8e38cad",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://9b18e38e-2d17-4a86-9462-0238f36d033e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://78236ebc-6424-4788-9921-c8d03df607de",
+      "@type" : "sc:Canvas",
+      "label" : "Page 4",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://096bd8e9-5563-480c-870a-9649c511c95b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden4",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://78236ebc-6424-4788-9921-c8d03df607de"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f4080cc3-c105-4f23-a17d-db6ee4bb90a1",
+      "@type" : "sc:Canvas",
+      "label" : "Page 5",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://152849ec-eac7-43dd-8700-6f71f41fed51",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden5",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://f4080cc3-c105-4f23-a17d-db6ee4bb90a1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://10365749-6f3a-43a8-9e60-5cd4f2aded13",
+      "@type" : "sc:Canvas",
+      "label" : "Page 6",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://704d7045-7c5d-49b2-b9ff-81dd949c1d1d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden6",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://10365749-6f3a-43a8-9e60-5cd4f2aded13"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a94c9e8e-c975-4541-8af6-5244b1e3819f",
+      "@type" : "sc:Canvas",
+      "label" : "Page 7",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://aae68b5f-8c22-47ab-8ec2-f8eb910ab426",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden7/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden7",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://a94c9e8e-c975-4541-8af6-5244b1e3819f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e3c778d0-8a03-4706-a069-b30db13ea1da",
+      "@type" : "sc:Canvas",
+      "label" : "Page 8",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2010bbbd-b686-42e4-ab94-167648341dc1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden8/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden8",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://e3c778d0-8a03-4706-a069-b30db13ea1da"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a4dd4761-9b24-4840-b492-f5c38db6c13d",
+      "@type" : "sc:Canvas",
+      "label" : "Page 9",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1ffd22b5-ddf0-4f4d-98da-41eb704b6a8f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden9/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden9",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://a4dd4761-9b24-4840-b492-f5c38db6c13d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://446c8e15-c28e-42fc-b815-8d3cc6fc588a",
+      "@type" : "sc:Canvas",
+      "label" : "Page 10",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6e418097-476b-4a60-9377-70e5efe2e403",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden10/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden10",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://446c8e15-c28e-42fc-b815-8d3cc6fc588a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a60e52a8-421e-4306-a57e-9000dbaf8da0",
+      "@type" : "sc:Canvas",
+      "label" : "Page 11",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fb110a06-7985-4f87-8249-76583b0d3733",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden11/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/SecretGarden11",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://a60e52a8-421e-4306-a57e-9000dbaf8da0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5bb57b17-b31f-4756-8682-aff6889f9a7d",
+      "@type" : "sc:Canvas",
+      "label" : "Page 12",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://851ea9bf-38e2-4609-80d2-4a0396e118c3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/12/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/12",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://5bb57b17-b31f-4756-8682-aff6889f9a7d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://672e67e4-8a53-42f6-80b5-4e784594c3ca",
+      "@type" : "sc:Canvas",
+      "label" : "Page 13",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b4e46be0-d3ca-49b9-b371-1446468c060b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/13/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/13",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://672e67e4-8a53-42f6-80b5-4e784594c3ca"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://23922301-180a-4e8b-a7c6-87e1c3b8798d",
+      "@type" : "sc:Canvas",
+      "label" : "Page 14",
+      "height" : 2250,
+      "width" : 1410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e42a23ba-7fa0-4480-8d20-af46f43f30d4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/14/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theadmontlibrary.github.io/The-Admont-Archive/images/14",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2250,
+          "width" : 1410
+        },
+        "on" : "http://23922301-180a-4e8b-a7c6-87e1c3b8798d"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://7412606d-e495-4f38-9dad-8d2db4c4cb4b"
+  }
+}
